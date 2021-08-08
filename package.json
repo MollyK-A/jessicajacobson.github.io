@@ -1,0 +1,26 @@
+{
+  "name": "jessicas-hemsida",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "material-design-icons": "^3.0.1",
+    "material-icons": "^1.1.1",
+    "sass": "^1.37.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "style": "sass scss/style.scss css/style.css --no-source-map"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MollyK-A/jessicajacobson.git"
+  },
+  "author": "Molly Andersson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MollyK-A/jessicajacobson/issues"
+  },
+  "homepage": "https://github.com/MollyK-A/jessicajacobson#readme"
+}
