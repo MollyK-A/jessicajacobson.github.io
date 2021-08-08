@@ -1,6 +1,6 @@
 <?php include("incl/header.php"); ?>
 
-    <div class="main">
+    <div class="main tinted-light">
         <div class="h2">
             <h2>Vill du lära dig att sjunga?</h2>
         </div>

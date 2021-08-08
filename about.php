@@ -1,6 +1,6 @@
 <?php include("incl/header.php"); ?>
 
-    <div class="main">
+    <div class="main tinted-light">
         <div>
         <h2>Hej!</h2>
             <p>

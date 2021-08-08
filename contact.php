@@ -1,6 +1,6 @@
 <?php include("incl/header.php"); ?>
 
-    <div class="main">
+    <div class="main tinted-light">
 
         <div class="contactform">
             <h2>Kontakta mig här!</h2>

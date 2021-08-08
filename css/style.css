@@ -22,7 +22,7 @@ p {
 }
 
 html {
-  background-image: url("../img/bg.eps");
+  background-image: url("../img/bg.png");
   background-repeat: no-repeat;
   background-size: cover;
   max-height: 100%;
@@ -30,12 +30,9 @@ html {
 
 body {
   margin: 0;
-  display: grid;
-  grid-template-columns: 10% 40% 40% 10%;
 }
 
 .header {
-  grid-column: 1/span 4;
   text-align: center;
 }
 
@@ -48,8 +45,10 @@ body {
 }
 
 .main {
-  grid-column: 2/span 2;
-  margin-top: 5%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 5%;
+  padding-bottom: 10%;
   display: grid;
   grid-column-gap: 5%;
   grid-template-columns: repeat(2, 1fr);
@@ -61,7 +60,6 @@ body {
 }
 
 footer {
-  margin-top: 10%;
   padding-left: 10%;
   padding-top: 1%;
   padding-bottom: 1%;
@@ -75,6 +73,7 @@ footer {
   /* Default */
   justify-content: space-between;
   padding: 1em;
+  margin: 0;
 }
 .navbar ul li {
   display: block;
@@ -93,6 +92,10 @@ footer {
 
 .tinted {
   background-color: rgba(201, 223, 243, 0.8);
+}
+
+.tinted-light {
+  background-color: rgba(201, 223, 243, 0.4);
 }
 
 .pic {

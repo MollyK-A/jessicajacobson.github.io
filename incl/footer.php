@@ -7,9 +7,7 @@
             language    
         </span> -->
         <p> www.jessicajacobson.se </p>
-        <!-- <span class="material-icons-outlined">
-            location_on
-        </span> -->
+
         <p>
             Örebro
         </p>
